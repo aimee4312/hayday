@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Silver Bar",
+      "image": "Silver_Bar.png",
+      "needs": [
+        ["Silver ore", 3]
+      ]
+    },
+    {
+      "name": "Gold Bar",
+      "image": "Gold_Bar.png",
+      "needs": [
+        ["Gold ore", 3]
+      ]
+    },
+    {
+      "name": "Platinum Bar",
+      "image": "Platinum_Bar.png",
+      "needs": [
+        ["Platinum ore", 3]
+      ]
+    },
+    {
+      "name": "Refined Coal",
+      "image": "Refined_Coal.png",
+      "needs": [
+        ["Coal", 3]
+      ]
+    },
+    {
+      "name": "Iron Bar",
+      "image": "Iron_Bar.png",
+      "needs": [
+        ["Iron ore", 3]
+      ]
+    }
+  ]
+  

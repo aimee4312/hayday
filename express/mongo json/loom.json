@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Sweater",
+      "image": "Sweater.png",
+      "needs": [
+        ["Wool", 2]
+      ]
+    },
+    {
+      "name": "Cotton Fabric",
+      "image": "Cotton_Fabric.png",
+      "needs": [
+        ["Cotton", 3]
+      ]
+    },
+    {
+      "name": "Blue Woolly Hat",
+      "image": "Blue_Woolly_Hat.png",
+      "needs": [
+        ["Indigo", 1],
+        ["Wool", 1]
+      ]
+    },
+    {
+      "name": "Blue Sweater",
+      "image": "Blue_Sweater.png",
+      "needs": [
+        ["Indigo", 2],
+        ["Wool", 2]
+      ]
+    },
+    {
+      "name": "Red Scarf",
+      "image": "Red_Scarf.png",
+      "needs": [
+        ["Strawberry", 2],
+        ["Wool", 2]
+      ]
+    },
+    {
+      "name": "Flower Shawl",
+      "image": "Flower_Shawl.png",
+      "needs": [
+        ["Wool", 2],
+        ["Sunflower", 3],
+        ["Blackberry", 1]
+      ]
+    }
+  ]
+  

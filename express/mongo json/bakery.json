@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bread",
+        "image": "Bread.png",
+        "needs": [
+            ["Wheat", 3]
+        ]
+    },
+    {
+        "name": "Corn Bread",
+        "image": "Corn_Bread.png",
+        "needs": [
+            ["Corn", 2],
+            ["Egg", 2]
+        ]
+    },
+    {
+        "name": "Cookie",
+        "image": "Cookie.png",
+        "needs": [
+            ["Brown sugar", 1],
+            ["Egg", 2],
+            ["Wheat", 2]
+        ]
+    },
+    {
+        "name": "Raspberry Muffin",
+        "image": "Raspberry_Muffin.png",
+        "needs": [
+            ["Egg", 1],
+            ["Raspberry", 2],
+            ["Wheat", 2]
+        ]
+    },
+    {
+        "name": "Blackberry Muffin",
+        "image": "Blackberry_Muffin.png",
+        "needs": [
+            ["Blackberry", 2],
+            ["Egg", 2],
+            ["Wheat", 1]
+        ]
+    },
+    {
+        "name": "Pizza",
+        "image": "Pizza.png",
+        "needs": [
+            ["Cheese", 1],
+            ["Tomato", 1],
+            ["Wheat", 2]
+        ]
+    },
+    {
+        "name": "Spicy Pizza",
+        "image": "Spicy_Pizza.png",
+        "needs": [
+            ["Cheese", 1],
+            ["Chili pepper", 1],
+            ["Tomato", 1],
+            ["Wheat", 2]
+        ]
+    },
+    {
+        "name": "Potato Bread",
+        "image": "Potato_Bread.png",
+        "needs": [
+            ["Butter", 1],
+            ["Egg", 3],
+            ["Potato", 2],
+            ["White sugar", 1]
+        ]
+    },
+    {
+        "name": "Frutti di Mare Pizza",
+        "image": "Frutti_di_Mare_Pizza.png",
+        "needs": [
+            ["Cheese", 1],
+            ["Fish fillet", 1],
+            ["Lobster tail", 1],
+            ["Wheat", 2]
+        ]
+    },
+    {
+        "name": "Gingerbread Cookie",
+        "image": "Gingerbread_Cookie.png",
+        "needs": [
+            ["Wheat", 5],
+            ["Butter", 1],
+            ["Syrup", 1],
+            ["Ginger", 2]
+        ]
+    },
+    {
+        "name": "Banana Bread",
+        "image": "Banana_Bread.png",
+        "needs": [
+            ["Banana", 3],
+            ["Egg", 1],
+            ["Grapes", 2],
+            ["Wheat", 3]
+        ]
+    },
+    {
+        "name": "Macaroon",
+        "image": "Macaroon.png",
+        "needs": [
+            ["Cacao", 1],
+            ["Coconut", 2],
+            ["White sugar", 2]
+        ]
+    },
+    {
+        "name": "Pineapple Coconut Bars",
+        "image": "Pineapple_Coconut_Bars.png",
+        "needs": [
+            ["Coconut", 1],
+            ["White sugar", 2],
+            ["Oats", 3],
+            ["Pineapple", 2]
+        ]
+    }
+]

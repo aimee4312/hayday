@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Cream",
+      "image": "Cream.png",
+      "needs": [
+        ["Milk", 1]
+      ]
+    },
+    {
+      "name": "Butter",
+      "image": "Butter.png",
+      "needs": [
+        ["Milk", 2]
+      ]
+    },
+    {
+      "name": "Cheese",
+      "image": "Cheese.png",
+      "needs": [
+        ["Milk", 3]
+      ]
+    },
+    {
+      "name": "Goat Cheese",
+      "image": "Goat_Cheese.png",
+      "needs": [
+        ["Goat milk", 2]
+      ]
+    }
+  ]
+  

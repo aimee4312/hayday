@@ -1,0 +1,145 @@
+[
+    {
+      "name": "Carrot Pie",
+      "image": "Carrot_Pie.png",
+      "needs": [
+        ["Carrot", 3],
+        ["Egg", 1],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Pumpkin Pie",
+      "image": "Pumpkin_Pie.png",
+      "needs": [
+        ["Egg", 1],
+        ["Pumpkin", 3],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Bacon Pie",
+      "image": "Bacon_Pie.png",
+      "needs": [
+        ["Bacon", 3],
+        ["Egg", 1],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Apple Pie",
+      "image": "Apple_Pie.png",
+      "needs": [
+        ["Apple", 3],
+        ["Egg", 1],
+        ["Syrup", 1],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Fish Pie",
+      "image": "Fish_Pie.png",
+      "needs": [
+        ["Egg", 1],
+        ["Fish fillet", 3],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Feta Pie",
+      "image": "Feta_Pie.png",
+      "needs": [
+        ["Egg", 1],
+        ["Goat cheese", 1],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Casserole",
+      "image": "Casserole.png",
+      "needs": [
+        ["Bacon", 2],
+        ["Cheese", 1],
+        ["Egg", 2],
+        ["Potato", 2]
+      ]
+    },
+    {
+      "name": "Shepherd's Pie",
+      "image": "Shepherds_Pie.png",
+      "needs": [
+        ["Bacon", 2],
+        ["Carrot", 2],
+        ["Potato", 2],
+        ["Pumpkin", 2]
+      ]
+    },
+    {
+      "name": "Asparagus Quiche",
+      "image": "Asparagus_Quiche.png",
+      "needs": [
+        ["Asparagus", 2],
+        ["Egg", 2],
+        ["Cheese", 1],
+        ["Wheat", 4]
+      ]
+    },
+    {
+      "name": "Chocolate Pie",
+      "image": "Chocolate_Pie.png",
+      "needs": [
+        ["Wheat", 3],
+        ["Cacao", 3],
+        ["Egg", 1],
+        ["Peanuts", 1]
+      ]
+    },
+    {
+      "name": "Lemon Pie",
+      "image": "Lemon_Pie.png",
+      "needs": [
+        ["Egg", 1],
+        ["Lemon curd", 1],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Peach Tart",
+      "image": "Peach_Tart.png",
+      "needs": [
+        ["Cream", 1],
+        ["Egg", 2],
+        ["Peach", 3],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Passion Fruit Pie",
+      "image": "Passion_Fruit_Pie.png",
+      "needs": [
+        ["Passion fruit", 3],
+        ["Wheat", 2],
+        ["Egg", 1]
+      ]
+    },
+    {
+      "name": "Mushroom Pot Pie",
+      "image": "Mushroom_Pot_Pie.png",
+      "needs": [
+        ["Mushroom", 3],
+        ["Cabbage", 3],
+        ["Wheat", 3],
+        ["Egg", 2]
+      ]
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "image": "Eggplant_Parmesan.png",
+      "needs": [
+        ["Eggplant", 3],
+        ["Cheese", 1],
+        ["Tomato sauce", 1]
+      ]
+    }
+  ]
+  

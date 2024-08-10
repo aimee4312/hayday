@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Popcorn",
+      "image": "Popcorn.png",
+      "needs": [
+        ["Corn", 2]
+      ]
+    },
+    {
+      "name": "Buttered Popcorn",
+      "image": "Buttered_Popcorn.png",
+      "needs": [
+        ["Butter", 1],
+        ["Corn", 2]
+      ]
+    },
+    {
+      "name": "Chili Popcorn",
+      "image": "Chili_Popcorn.png",
+      "needs": [
+        ["Chili pepper", 2],
+        ["Corn", 2]
+      ]
+    },
+    {
+      "name": "Honey Popcorn",
+      "image": "Honey_Popcorn.png",
+      "needs": [
+        ["Corn", 2],
+        ["Honey", 2]
+      ]
+    },
+    {
+      "name": "Chocolate Popcorn",
+      "image": "Chocolate_Popcorn.png",
+      "needs": [
+        ["Cacao", 2],
+        ["Corn", 2]
+      ]
+    },
+    {
+      "name": "Snack Mix",
+      "image": "Snack_Mix.png",
+      "needs": [
+        ["Corn", 2],
+        ["Sesame", 1],
+        ["Peanuts", 1]
+      ]
+    }
+  ]
+  

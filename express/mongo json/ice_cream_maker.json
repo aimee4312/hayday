@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Vanilla Ice Cream",
+      "image": "Vanilla_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["Milk", 1],
+        ["White sugar", 1]
+      ]
+    },
+    {
+      "name": "Cherry Popsicle",
+      "image": "Cherry_Popsicle.png",
+      "needs": [
+        ["Cherry juice", 1],
+        ["Syrup", 1]
+      ]
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "image": "Strawberry_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["Milk", 1],
+        ["Strawberry", 3],
+        ["White sugar", 1]
+      ]
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "image": "Chocolate_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["Cacao", 2],
+        ["Milk", 1],
+        ["White sugar", 1]
+      ]
+    },
+    {
+      "name": "Sesame Ice Cream",
+      "image": "Sesame_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["Sesame", 3],
+        ["Brown sugar", 1]
+      ]
+    },
+    {
+      "name": "Peanut Butter Milkshake",
+      "image": "Peanut_Butter_Milkshake.png",
+      "needs": [
+        ["Peanuts", 1],
+        ["Milk", 1],
+        ["Cream", 1],
+        ["Cacao", 3]
+      ]
+    },
+    {
+      "name": "Orange Sorbet",
+      "image": "Orange_Sorbet.png",
+      "needs": [
+        ["Honey", 1],
+        ["Orange", 2]
+      ]
+    },
+    {
+      "name": "Affogato",
+      "image": "Affogato.png",
+      "needs": [
+        ["Vanilla Ice Cream", 1],
+        ["Espresso", 1]
+      ]
+    },
+    {
+      "name": "Peach Ice Cream",
+      "image": "Peach_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["Honey", 1],
+        ["Peach", 2]
+      ]
+    },
+    {
+      "name": "Mint Ice Cream",
+      "image": "Mint_Ice_Cream.png",
+      "needs": [
+        ["Cream", 1],
+        ["White sugar", 1],
+        ["Mint", 2],
+        ["Cacao", 1]
+      ]
+    },
+    {
+      "name": "Banana Split",
+      "image": "Banana_Split.png",
+      "needs": [
+        ["Banana", 1],
+        ["Cherry", 3],
+        ["Cream", 1]
+      ]
+    },
+    {
+      "name": "Coconut Ice Cream",
+      "image": "Coconut_Ice_Cream.png",
+      "needs": [
+        ["Coconut", 2],
+        ["Syrup", 1]
+      ]
+    },
+    {
+      "name": "Fruit Sorbet",
+      "image": "Fruit_Sorbet.png",
+      "needs": [
+        ["Guava", 1],
+        ["Passion fruit", 1],
+        ["Mango", 2],
+        ["White sugar", 3]
+      ]
+    }
+  ]
+  

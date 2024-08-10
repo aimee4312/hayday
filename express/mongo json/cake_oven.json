@@ -1,0 +1,137 @@
+[
+    {
+      "name": "Carrot Cake",
+      "image": "Carrot_Cake.png",
+      "needs": [
+        ["Brown sugar", 1],
+        ["Butter", 1],
+        ["Carrot", 2]
+      ]
+    },
+    {
+      "name": "Cream Cake",
+      "image": "Cream_Cake.png",
+      "needs": [
+        ["Cream", 1],
+        ["White sugar", 1],
+        ["Wheat", 5]
+      ]
+    },
+    {
+      "name": "Red Berry Cake",
+      "image": "Red_Berry_Cake.png",
+      "needs": [
+        ["Cherry", 2],
+        ["Egg", 1],
+        ["Milk", 1],
+        ["Raspberry", 1]
+      ]
+    },
+    {
+      "name": "Cheesecake",
+      "image": "Cheesecake.png",
+      "needs": [
+        ["Cheese", 1],
+        ["Cookie", 1]
+      ]
+    },
+    {
+      "name": "Strawberry Cake",
+      "image": "Strawberry_Cake.png",
+      "needs": [
+        ["Cream", 1],
+        ["Strawberry", 2],
+        ["Wheat", 3],
+        ["White sugar", 1]
+      ]
+    },
+    {
+      "name": "Chocolate Cake",
+      "image": "Chocolate_Cake.png",
+      "needs": [
+        ["Brown sugar", 1],
+        ["Butter", 1],
+        ["Cacao", 2]
+      ]
+    },
+    {
+      "name": "Potato Feta Cake",
+      "image": "Potato_Feta_Cake.png",
+      "needs": [
+        ["Egg", 4],
+        ["Goat cheese", 1],
+        ["Potato", 1]
+      ]
+    },
+    {
+      "name": "Honey Apple Cake",
+      "image": "Honey_Apple_Cake.png",
+      "needs": [
+        ["Apple", 2],
+        ["Egg", 2],
+        ["Honey", 2],
+        ["Wheat", 2]
+      ]
+    },
+    {
+      "name": "Fancy Cake",
+      "image": "Fancy_Cake.png",
+      "needs": [
+        ["Cream cake", 1],
+        ["Lily", 3],
+        ["Raspberry", 3],
+        ["Gold ore", 1]
+      ]
+    },
+    {
+      "name": "Pineapple Cake",
+      "image": "Pineapple_Cake.png",
+      "needs": [
+        ["Pineapple", 3],
+        ["Egg", 2],
+        ["Cherry", 2],
+        ["Wheat", 4]
+      ]
+    },
+    {
+      "name": "Lemon Cake",
+      "image": "Lemon_Cake.png",
+      "needs": [
+        ["Cream", 1],
+        ["Egg", 2],
+        ["Lemon curd", 2],
+        ["Wheat", 3]
+      ]
+    },
+    {
+      "name": "Fruit Cake",
+      "image": "Fruit_Cake.png",
+      "needs": [
+        ["Cherry", 2],
+        ["Grapes", 2],
+        ["Orange", 2],
+        ["Wheat", 3]
+      ]
+    },
+    {
+      "name": "Chocolate Roll",
+      "image": "Chocolate_Roll.png",
+      "needs": [
+        ["Cacao", 5],
+        ["Cream", 1],
+        ["Wheat", 3],
+        ["Mint", 3]
+      ]
+    },
+    {
+      "name": "Pomegranate Cake",
+      "image": "Pomegranate_Cake.png",
+      "needs": [
+        ["Pomegranate", 1],
+        ["Egg", 2],
+        ["Cream", 2],
+        ["Wheat", 6]
+      ]
+    }
+  ]
+  

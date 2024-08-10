@@ -1,0 +1,88 @@
+[
+    {
+      "name": "Carrot Juice",
+      "image": "Carrot_Juice.png",
+      "needs": [
+        ["Carrot", 3]
+      ]
+    },
+    {
+      "name": "Apple Juice",
+      "image": "Apple_Juice.png",
+      "needs": [
+        ["Apple", 2]
+      ]
+    },
+    {
+      "name": "Cherry Juice",
+      "image": "Cherry_Juice.png",
+      "needs": [
+        ["Cherry", 2]
+      ]
+    },
+    {
+      "name": "Tomato Juice",
+      "image": "Tomato_Juice.png",
+      "needs": [
+        ["Tomato", 3]
+      ]
+    },
+    {
+      "name": "Berry Juice",
+      "image": "Berry_Juice.png",
+      "needs": [
+        ["Blackberry", 1],
+        ["Raspberry", 1]
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "image": "Pineapple_Juice.png",
+      "needs": [
+        ["Pineapple", 3]
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "image": "Orange_Juice.png",
+      "needs": [
+        ["Orange", 2]
+      ]
+    },
+    {
+      "name": "Grape Juice",
+      "image": "Grape_Juice.png",
+      "needs": [
+        ["Grapes", 2]
+      ]
+    },
+    {
+      "name": "Passion Fruit Juice",
+      "image": "Passion_Fruit_Juice.png",
+      "needs": [
+        ["Passion fruit", 2]
+      ]
+    },
+    {
+      "name": "Watermelon Juice",
+      "image": "Watermelon_Juice.png",
+      "needs": [
+        ["Watermelon", 2]
+      ]
+    },
+    {
+      "name": "Mango Juice",
+      "image": "Mango_Juice.png",
+      "needs": [
+        ["Mango", 2]
+      ]
+    },
+    {
+      "name": "Guava Juice",
+      "image": "Guava_Juice.png",
+      "needs": [
+        ["Guava", 2]
+      ]
+    }
+  ]
+  

@@ -1,0 +1,144 @@
+[
+    {
+      "name": "Pancake",
+      "image": "Pancake.png",
+      "needs": [
+        ["Brown sugar", 1],
+        ["Egg", 3]
+      ]
+    },
+    {
+      "name": "Bacon and Eggs",
+      "image": "Bacon_and_Eggs.png",
+      "needs": [
+        ["Bacon", 2],
+        ["Egg", 4]
+      ]
+    },
+    {
+      "name": "Hamburger",
+      "image": "Hamburger.png",
+      "needs": [
+        ["Bacon", 2],
+        ["Bread", 2]
+      ]
+    },
+    {
+      "name": "Fish Burger",
+      "image": "Fish_Burger.png",
+      "needs": [
+        ["Bread", 2],
+        ["Chili pepper", 1],
+        ["Fish fillet", 2]
+      ]
+    },
+    {
+      "name": "Roasted Tomatoes",
+      "image": "Roasted_Tomatoes.png",
+      "needs": [
+        ["Tomato", 2]
+      ]
+    },
+    {
+      "name": "Baked Potato",
+      "image": "Baked_Potato.png",
+      "needs": [
+        ["Cheese", 1],
+        ["Chili pepper", 1],
+        ["Cream", 1],
+        ["Potato", 2]
+      ]
+    },
+    {
+      "name": "Fish and Chips",
+      "image": "Fish_and_Chips.png",
+      "needs": [
+        ["Fish fillet", 2],
+        ["Potato", 3]
+      ]
+    },
+    {
+      "name": "Lobster Skewer",
+      "image": "Lobster_Skewer.png",
+      "needs": [
+        ["Chili pepper", 1],
+        ["Honey", 1],
+        ["Lobster tail", 1]
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "image": "Garlic_Bread.png",
+      "needs": [
+        ["Bread", 2],
+        ["Butter", 1],
+        ["Garlic", 4]
+      ]
+    },
+    {
+      "name": "Grilled Asparagus",
+      "image": "Grilled_Asparagus.png",
+      "needs": [
+        ["Asparagus", 5],
+        ["Bacon", 3],
+        ["Lemon", 1]
+      ]
+    },
+    {
+      "name": "Grilled Onion",
+      "image": "Grilled_Onion.png",
+      "needs": [
+        ["Butter", 1],
+        ["Onion", 2]
+      ]
+    },
+    {
+      "name": "Winter Veggies",
+      "image": "Winter_Veggies.png",
+      "needs": [
+        ["Beetroot", 2],
+        ["Carrot", 3],
+        ["Potato", 2],
+        ["Pumpkin", 2]
+      ]
+    },
+    {
+      "name": "Stuffed Peppers",
+      "image": "Stuffed_Peppers.png",
+      "needs": [
+        ["Bell pepper", 3],
+        ["Bacon", 1],
+        ["Rice", 3],
+        ["Cheese", 1]
+      ]
+    },
+    {
+      "name": "Grilled Eggplant",
+      "image": "Grilled_Eggplant.png",
+      "needs": [
+        ["Eggplant", 3],
+        ["Salsa", 1]
+      ]
+    },
+    {
+      "name": "Banana Pancakes",
+      "image": "Banana_Pancakes.png",
+      "needs": [
+        ["Banana", 1],
+        ["Blackberry", 2],
+        ["Cream", 1],
+        ["Wheat", 3]
+      ]
+    },
+    {
+      "name": "Fish Skewer",
+      "image": "Fish_Skewer.png",
+      "needs": [
+        ["Fish fillet", 1],
+        ["Mushroom", 3],
+        ["Ginger", 1],
+        ["Sesame", 2]
+      ]
+    }
+  ]
+  

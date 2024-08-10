@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Cotton Shirt",
+      "image": "Cotton_Shirt.png",
+      "needs": [
+        ["Cotton fabric", 2]
+      ]
+    },
+    {
+      "name": "Wooly Chaps",
+      "image": "Wooly_Chaps.png",
+      "needs": [
+        ["Cotton fabric", 1],
+        ["Wool", 3]
+      ]
+    },
+    {
+      "name": "Violet Dress",
+      "image": "Violet_Dress.png",
+      "needs": [
+        ["Cotton fabric", 2],
+        ["Indigo", 1],
+        ["Raspberry", 1]
+      ]
+    },
+    {
+      "name": "Pillow",
+      "image": "Pillow.png",
+      "needs": [
+        ["Cotton fabric", 2],
+        ["Duck feather", 3]
+      ]
+    },
+    {
+      "name": "Blanket",
+      "image": "Blanket.png",
+      "needs": [
+        ["Cotton fabric", 3],
+        ["Duck feather", 5],
+        ["Pumpkin", 1]
+      ]
+    }
+  ]
+  
